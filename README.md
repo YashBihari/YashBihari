@@ -1,6 +1,6 @@
 # Welcome to My World..!!
 
-[![Yash](https://telegra.ph/file/dd9393e61d9d9b7071ea6.jpg)][1]
+![Yash](https://telegra.ph/file/dd9393e61d9d9b7071ea6.jpg)
 
 ### About Me 🙋🏻‍♂️
 ```python
