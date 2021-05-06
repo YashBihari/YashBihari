@@ -12,8 +12,8 @@ Graphic Designer
 ```
 #### 
 
-- 😄 I'm Still Learning
-- 🥰 Gaming Development
+- 😄 I'm Still Learning Programming
+- 🥰 I also Gaming Development and Graphic Designing
 - 🌱 I’m currently learning about telegram bots
 - 🤔 I’m looking for help for the repos and my groups
 - 💬 Ask me about anything
