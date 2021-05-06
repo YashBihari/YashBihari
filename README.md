@@ -8,7 +8,7 @@ Name = "Yash Bihari"
 Age = "18"
 Country = "India"
 Python is love ❤
-Graphic Designer
+Web Developer ❤
 ```
 #### 
 
