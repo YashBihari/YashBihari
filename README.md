@@ -26,7 +26,7 @@ Web Developer ❤
 
 <h2 align="center"><b>My GitHub Stats💛</b></h2>
 
-![YashBihari Git Stats](https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&include_all_commits=true&count_private=true&theme=highcontrast)
+![Itzmeyaxh Git Stats](https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&include_all_commits=true&count_private=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzmeyaxh&layout=compact&theme=radical)](https://github.com/Itzmeyaxh)
 
