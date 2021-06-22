@@ -23,6 +23,7 @@ Web Developer ❤
 ## 📬 Get in touch
    
    Gmail: bihariyash01@gmail.com
+   [Telegram](https://t.me/Itzmeyaxh)
    
 ## ✺ Github Stats ✺
 
