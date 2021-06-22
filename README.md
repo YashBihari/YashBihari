@@ -33,11 +33,11 @@ Web Developer ❤
 
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Itzmeyaxh"/></p>
    
-<h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
+<h2 align="left"><b>💫 Most Used Languages 💫
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css">
-    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisgaurav&layout=compact&theme=midnight-purple&hide=Css" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzmeyaxh&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="50%" align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzmeyaxh&layout=compact&theme=tokyonight&locale=en" />
 </a>
 </b></h2>   
    
