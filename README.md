@@ -25,16 +25,14 @@ Web Developer ❤
  -  Gmail: bihariyash01@gmail.com
  -  Telegram: https://t.me/Itzmeyaxh
    
+## ✺ Github Stats ✺
 
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p>
 
 ## 💫 Most Used Languages 💫
 
    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Itzmeyaxh"/></p>
-   
-## ✺ Github Stats ✺
-
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p>
-   
+      
    
 ## ✵ Languages and Tools I LOVE ✵
 
