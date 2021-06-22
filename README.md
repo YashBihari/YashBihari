@@ -27,3 +27,7 @@ Web Developer ❤
 ## ✺ Github Stats ✺
 
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p>
+
+## 💫 Most Used Languages 💫
+
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p>
