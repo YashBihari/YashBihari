@@ -37,4 +37,4 @@ Web Developer ❤
    
    
    
-   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&count_private=true&locale=en" alt="Itzmeyaxh" /></p>
+
