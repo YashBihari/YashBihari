@@ -32,3 +32,9 @@ Web Developer ❤
 ## 💫 Most Used Languages 💫
 
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1Danish-00&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="1Danish-00"       /></p>
+   
+   
+   
+   
+   
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&count_private=true&locale=en" alt="Itzmeyaxh" /></p>
