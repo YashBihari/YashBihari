@@ -24,11 +24,13 @@ Web Developer ❤
    
    Gmail: bihariyash01@gmail.com
 
-<h2 align="center"><b>My GitHub Stats💛</b></h2>
-
-![Itzmeyaxh Git Stats](https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&include_all_commits=true&count_private=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzmeyaxh&layout=compact&theme=radical)](https://github.com/Itzmeyaxh)
+<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<br>
+<br>
+<a href="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+</a>
+</b></h2>  
 
 ### Languages and Tools I Love ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
