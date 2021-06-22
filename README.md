@@ -20,7 +20,7 @@ Web Developer ❤
 - ⚡ You are semicolon to MySQL statements;
 --> 
 
-#### 📬 Get in touch
+## 📬 Get in touch
    
  -  Gmail: bihariyash01@gmail.com
  -  Telegram: https://t.me/Itzmeyaxh
