@@ -28,7 +28,7 @@ Web Developer ❤
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p> 
    
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐</b></h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Itzmeyaxh" /></p>
 
 ### Languages and Tools I Love ❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
