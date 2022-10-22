@@ -14,8 +14,7 @@ Web Developer ❤
 
 - 😄 I'm Still Learning Programming
 - 🥰 I also like Web Development and Graphic Designing
-- 🌱 I’m currently learning about telegram bots
-- 🤔 I’m looking for help for the repos and my groups
+- 🌱 I’m currently learning about AI
 - 💬 Ask me about anything
 - ⚡ You are semicolon to MySQL statements;
 --> 
