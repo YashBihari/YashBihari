@@ -5,7 +5,7 @@
 ### About Me 🙋🏻‍♂️
 ```python
 Name = "Yash Bihari"
-Age = "18"
+Age = "19"
 Country = "India"
 Python is love ❤
 Web Developer ❤
@@ -22,7 +22,7 @@ Web Developer ❤
 ## 📬 Get in touch
    
  -  Gmail: bihariyash01@gmail.com
- -  Telegram: https://t.me/CallistoXd
+ -  Telegram: https://t.me/iyaxh
    
 ## ✺ Github Stats ✺
 
