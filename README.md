@@ -26,11 +26,11 @@ Web Developer ❤
    
 ## ✺ Github Stats ✺
 
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en" alt="Itzmeyaxh" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YashBihari&show_icons=true&theme=tokyonight&locale=en" alt="YashBihari" /></p>
 
 ## 💫 Most Used Languages 💫
 
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzmeyaxh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Itzmeyaxh"/></p>
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashBihari&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="YashBihari"/></p>
       
    
 ## ✵ Languages and Tools I LOVE ✵
